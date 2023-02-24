@@ -1,4 +1,3 @@
-## Github Stats
 ## <img src="https://raw.githubusercontent.com/dkvc/dkvc/main/assets/Hourglass.png" alt="(Status)" width="30"/> Current Github Status
 [![GitHub stats (Dark Mode)](https://github-readme-stats-dkvc23.vercel.app/api?username=Aakashjammula&show_icons=true&theme=radical#gh-dark-mode-only)](https://github-readme-stats-dkvc23.vercel.app/api?username=Aakashjammula&show_icons=true&theme=radical#gh-dark-mode-only)
 [![GitHub stats (Light Mode)](https://github-readme-stats-dkvc23.app/api?username=Aakashjammula&show_icons=true&theme=default#gh-light-mode-only)](https://github-readme-stats-dkvc23.vercel.app/api?username=Aakashjammula&show_icons=true&theme=default#gh-light-mode-only)
