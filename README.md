@@ -24,7 +24,6 @@ I'm a **Generative AI Engineer**, and **Data Science Practitioner**.
   <img src="./images/pytorch-original.svg" width="40"/>
   <img src="./images/javascript-original.svg" width="40"/>
   <img src="./images/Langchain.svg" width="40"/>
-  <img src="./images/OpenCV.svg" width="50"/>
 </p>
 
 ---
